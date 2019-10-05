@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1570240834 source:c:\users\liliy\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"empleado.h"
+
+1570240824 c:\users\liliy\desktop\tp2\empleado.h
+
+1570241092 source:c:\users\liliy\desktop\tp2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"empleado.h"
+
